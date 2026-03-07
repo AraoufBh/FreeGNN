@@ -1,20 +1,19 @@
-cff-version: 1.2.0
-message: "If you use this repository, please cite our paper."
+preferred-citation:
   type: article
   title: "FreeGNN: Continual Source-Free Graph Neural Network Adaptation for Renewable Energy Forecasting"
   authors:
-    - family-names: Bahi
-      given-names: Abderaouf
-    - family-names: Ourici
-      given-names: Amel
-    - family-names: Gasmi
-      given-names: Ibtissem
-    - family-names: Derrablia
-      given-names: Aida
-    - family-names: Deghmane
-      given-names: Warda
-    - family-names: Ferrag
-      given-names: Mohamed Amine
+    - given-names: Abderaouf
+      family-names: Bahi
+    - given-names: Amel
+      family-names: Ourici
+    - given-names: Ibtissem
+      family-names: Gasmi
+    - given-names: Aida
+      family-names: Derrablia
+    - given-names: Warda
+      family-names: Deghmane
+    - given-names: Mohamed Amine
+      family-names: Ferrag
   year: 2026
   doi: "10.48550/arXiv.2603.01657"
   url: "https://arxiv.org/abs/2603.01657"
